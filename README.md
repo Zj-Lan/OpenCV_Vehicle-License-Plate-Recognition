@@ -1,6 +1,6 @@
 # Vehicle License Plate Recognition
 A course project for Machine Vision
-![img](recog.png)
+![img](recog.PNG)
 
 # Documentation
 + [Project Proposal](proposal.pdf)
